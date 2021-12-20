@@ -1,0 +1,82 @@
+[
+	{
+		"name": "unterhalt",
+		"heading": "Unterhaltsreingung",
+		"subheading": "Regelmäßige Reinigungen halten dir den Schmutz von Leib. Wie oft, dass bestimmst du.",
+		"description": {
+			"short": "Der erste Eindruck zählt! Die häufigste Reinigungsart ist die Unterhaltsreinigung. Darunter versteht man Reinigungsarbeiten, die sich laufend wiederholen und die zu festgelegten Zeitabständen durchgeführt werden.",
+			"long": "Der erste Eindruck zählt. Die Außenwirkung eines Unternehmens sollte niemals unterschätzt werden. Kunden, Mitarbeiter und Besucher fühlen sich in einem gepflegten und sauberen Umfeld einfach wohler, wogegen ein verschmutzter Empfangsbereich schnell auf eine unprofessionelle Unternehmensführung schließen lässt. Wir sorgen auch bei Ihnen für eine strahlend saubere Außenwirkung, glasklare Fensterfronten und gepflegte Besucherbereiche."
+		},
+		"services": [
+			"Abfallbehälter und Aschenbecher leeren",
+			"Tische und Schreibtische abwischen",
+			"Einsammeln von schmutzigem Geschirr",
+			"Arbeitsgeräte (Monitor, Tastatur) reinigen",
+			"Sanitärbereich reinigen",
+			"Auffüllen von Hygieneartikeln",
+			"Fußboden kehren/saugen/wischen",
+			"Lampenschirme entstauben"
+		],
+		"formid": "maintenance"
+	},
+	{
+		"name": "grund",
+		"heading": "Grundreinigung",
+		"subheading": "Mit der Grundreinigung wird auch der hartnäckigste Schmutz beseitigt.",
+		"description": {
+			"short": "Die Grundreinigung wird auch Intensivreinigung genannt. Sie hat das Ziel, hartnäckige, haftende Verschmutzungen sowie abgenutzte Pflegefilme zu entfernen und somit das Aussehen der Oberfläche zu verbessern.",
+			"long": "Die Grundreinigung ist eine besonders intensive und gründliche Reinigung. Bei der Grundreinigung werden auch hartnäckigere Verschmutzungen und schwer zugängliche Bereiche gereinigt: Das bedeutet, dass wirklich alles bis in die kleinste Ecke professionell und restlos von Verunreinigungen befreit wird. Eine Grundreinigung - im Volksmund auch oft als „Frühjahrsputz“ bezeichnet - bietet sich immer dann an, wenn größere Verschmutzungen nach einem größeren Event oder vor einem wichtigen Ereignis gereinigt werden müssen. Als Faustformel gilt: Ein bis zwei Mal im Jahr sollte eine Grundreinigung durchgeführt werden."
+		},
+		"services": [
+			"Alle Bodenbeläge & Oberflächen",
+			"Türen (inkl. Zargen & Leisten)",
+			"Fenster (inkl. Fensterbänke & Rahmen)",
+			"Steckdosen & Lichtschalter",
+			"Heizkörper",
+			"Polstermöbel & Gardinen",
+			"Schränke & Möbel",
+			"Teppiche",
+			"Pflegemittel entfernen & erneuern"
+		],
+		"formid": "base"
+	},
+	{
+		"name": "buro",
+		"heading": "Büroreinigung",
+		"subheading": "Weil nichts so wichtig wie der erste Eindruck ist.",
+		"description": {
+			"short": "Die Büroreinigung ist neben der Unterhaltsreinigung einer der wichtigsten Dienstleistungen innerhalb der Gebäudereinigung. Ein sauberes Büro steigert die Motivation der Mitarbeiter und sorgt für einen guten Eindruck bei Kundenterminen oder Besprechungen.",
+			"long": "Zur Büroreinigung gehört die tägliche Reinigung aller Arbeitsplätze, Arbeitsbereiche, Aufenthaltsräume und der täglich benutzten Gegenstände, Sanitärbereiche, Treppenhäuser und Eingangsbereiche. Kurzum: Überall wo Mitarbeiter- und Kundenverkehr herrscht. Je nach Büro und Unternehmen sind die Anforderungen natürlich verschieden: Je mehr Personenaufkommen, desto gründlicher und auch häufiger sollte die Büroreinigung erfolgen. "
+		},
+		"services": [
+			"Abfallbehälter und Aschenbecher leeren",
+			"Einsammeln von schmutzigem Geschirr",
+			"Arbeitsgeräte (Monitor, Tastatur) reinigen",
+			"Sanitärbereich reinigen",
+			"Auffüllen von Hygieneartikeln",
+			"Empfangstresen von Staub, Fingerabdrücken und Bakterien befreien",
+			"Lampenschirme entstauben",
+			"Kaffeeküche pflegen (Ablagen, Spülbecken, Griffe etc.)",
+			"Treppenhäuser & Eingangsbereiche reinigen"
+		],
+		"formid": "office"
+	},
+	{
+		"name": "fenster",
+		"heading": "Fensterreinigung",
+		"subheading": "Damit auch von außen alles top ist.",
+		"description": {
+			"short": "Bei der Fenster oder Glasreinigung werden Verunreinigungen, Anhaftungen und Verschmutzungen aller Art von Glasflächen gründlich entfernt und das Glas wieder in den ursprünglich leuchtenden Zustand gebracht.",
+			"long": "Bei der Glasreinigung werden Verunreinigungen, Anhaftungen und Verschmutzungen aller Art von Glasflächen gründlich entfernt. Die Reinigung der Glasflächen erfolgt mittels händischer oder mechanischer Arbeitsschritte sowie unter Verwendung geeigneter Fensterreinigungsmittel und Glasreiniger. Abhängig von der Schmutzanfälligkeit wird die Glasreinigung als Sichtreinigung oder periodische Unterhaltsreinigung durchgeführt. Ziel der Glasreinigung ist eine saubere und streifenfreie Glasoberfläche ohne Wasserflecken und Putzschlieren, um eine optimale Lichtdurchlässigkeit zu gewährleisten."
+		},
+		"services": [
+			"Glasreinigung",
+			"Türreinigung",
+			"Reinigung der Fensterbretter",
+			"Reinigung der Fensterdichtungen",
+			"Reinigung von Glasvirtrinen, Glasschränken",
+			"Reinigung von Verglasungen aller Art"
+		],
+		"formid": "window"
+	}
+]

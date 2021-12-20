@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Cadillac & Veranda Kino",
+		"date": "Seit 2008",
+		"description": "Das Cadillac Kino wird familiär geführt und bietet somit ein viel persönlicheres Kinoerlebnis.Das Kino besitzt zwei moderne Säle mit einer besonderen Ausstattung und insgesamt 294 Plätzen. Bereits seit 2008 sorgen wir täglich für saubere Säle & Anlagen.",
+		"image": {
+			"src": "cadillac.jpg",
+			"name": "Dani Seidl",
+			"href": "hptts://instagram.com/hamster85"
+		}
+	},
+	{
+		"name": "Muesum Lichtspiele",
+		"date": "Seit 2008",
+		"description": "Das zweiälteste Kino Münchens: Die Museum Lichtspiele. Bereits seit 2008 von uns professionell betreut, damit immer alles blitzt und blinkt. Besondere Herausforderung: Die wöchentliche Rocky-Horror-Picture Show, bei der viel Popvorn geworfen wird. Für uns, kein Problem!",
+		"image": {
+			"src": "museum.jpg",
+			"name": "Burkhard Mücke",
+			"href": "https://commons.wikimedia.org/wiki/File:2021_Lilienstraße_2_Museumslichtspiele_6.jpg"
+		}
+	},
+	{
+		"name": "Heiss & Leppla - Rechtsanwälte",
+		"date": "Seit 2018",
+		"description": "Die Kanzlei HEISS & LEPPLA Rechtsanwälte in München bietet  qualifizierte Rechtsberatung auf hohem Niveau. Wir sorgen für eine angenehme, saubere Arbeitsatmossphäre. Jeden Tag.",
+		"image": {
+			"src": "leppla.jpg",
+			"name": "Heiss & Leppla - Rechtsanwälte",
+			"href": "https://www.heiss-leppla.de"
+		}
+	}
+]
