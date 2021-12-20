@@ -14,7 +14,7 @@
 		<h1
 			class="font-poppins z-10 text-white text-6xl tracking-wider text-center leading-relaxed font-bold text-shadow"
 		>
-			<span class="text-9xl tracking-widest">Q</span>steht für
+			<span class="text-9xl tracking-widest text-accent">Q</span>steht für
 			<span class="text-7xl tracking-normal font-bold capital"
 				>Qualität</span
 			>
