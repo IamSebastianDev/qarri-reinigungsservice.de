@@ -1,6 +1,7 @@
 <?php
 
-$targetEmail = 'info@qarri-reinigungsservice.de';
+// $targetEmail = 'info@qarri-reinigungsservice.de';
+$targetEmail = "sebastian@iamsebastian.dev";
 
 $name = $_POST['name']; 
 $email = $_POST['email']; 
