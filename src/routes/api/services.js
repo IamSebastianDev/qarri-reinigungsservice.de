@@ -2,19 +2,17 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const getServices = async ({ name }) => {
+const getServices = async () => {
 	const res = await fs.readFile(
 		path.resolve(process.cwd(), './data/services.json'),
 		'utf-8'
 	);
 
-	return name ? JSON.parse(res).find((data) => data.name === name) : res;
+	return res;
 };
 
-export const get = async ({ query }) => {
-	const name = query.get('name');
-
+export const get = async () => {
 	return {
-		body: await getServices({ name }),
+		body: await getServices(),
 	};
 };

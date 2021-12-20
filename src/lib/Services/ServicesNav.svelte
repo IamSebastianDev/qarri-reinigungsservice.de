@@ -1,12 +1,6 @@
 <script>
-	let servicesData = [];
+	export let servicesData;
 	export let name;
-
-	import { onMount } from 'svelte';
-	onMount(async (...rest) => {
-		const res = await fetch('/api/services');
-		servicesData = await res.json();
-	});
 
 	$: services = servicesData.filter((serv) => serv.name !== name);
 </script>

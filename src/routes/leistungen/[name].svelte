@@ -2,9 +2,18 @@
 	export const load = async ({ page, fetch }) => {
 		const { name } = page.params;
 
-		const res = await fetch(`/api/services?name=${name}`);
+		const res = await fetch(`/api/services`);
+		const data = await res.json();
 
-		if (res.ok) return { props: { service: await res.json() } };
+		const service = data.find((data) => data.name === name);
+
+		if (res.ok)
+			return {
+				props: {
+					data,
+					service,
+				},
+			};
 
 		return {
 			status: res.status,
@@ -22,13 +31,14 @@
 	import ServicesSpectrum from '../../lib/Services/ServicesSpectrum.svelte';
 
 	export let service;
+	export let data;
 </script>
 
 <svelte:head>
-	<title>Qarri Reinigungsservice | Die {service}</title>
+	<title>Qarri Reinigungsservice | Die {service.heading}</title>
 </svelte:head>
 
-<Section id="grundreinigung">
+<Section id={service.heading}>
 	<SectionHeading
 		heading="Die {service.heading}"
 		description={service.subheading}
@@ -51,5 +61,5 @@
 		<ServicesSpectrum services={service.services} />
 	</ContainerText>
 	<ServicesLink />
-	<ServicesNav name={service.name} />
+	<ServicesNav name={service.name} servicesData={data} />
 </Section>
