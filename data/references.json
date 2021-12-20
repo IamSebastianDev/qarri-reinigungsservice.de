@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Cadillac & Veranda Kino",
-		"date": "Seit 2008",
+		"date": "Seit 2010",
 		"description": "Das Cadillac Kino wird familiär geführt und bietet somit ein viel persönlicheres Kinoerlebnis.Das Kino besitzt zwei moderne Säle mit einer besonderen Ausstattung und insgesamt 294 Plätzen. Bereits seit 2008 sorgen wir täglich für saubere Säle & Anlagen.",
 		"image": {
 			"src": "cadillac.jpg",
 			"name": "Dani Seidl",
-			"href": "hptts://instagram.com/hamster85"
+			"href": "https://instagram.com/hamster85"
 		}
 	},
 	{
 		"name": "Muesum Lichtspiele",
-		"date": "Seit 2008",
-		"description": "Das zweiälteste Kino Münchens: Die Museum Lichtspiele. Bereits seit 2008 von uns professionell betreut, damit immer alles blitzt und blinkt. Besondere Herausforderung: Die wöchentliche Rocky-Horror-Picture Show, bei der viel Popvorn geworfen wird. Für uns, kein Problem!",
+		"date": "Seit 2010",
+		"description": "Das zweiälteste Kino Münchens: Die Museum Lichtspiele. Bereits seit 2008 von uns professionell betreut, damit immer alles blitzt und blinkt. Besondere Herausforderung: Die wöchentliche Rocky-Horror-Picture Show, bei der viel Popvorn geworfen wird. Für uns kein Problem!",
 		"image": {
 			"src": "museum.jpg",
 			"name": "Burkhard Mücke",
@@ -20,13 +20,43 @@
 		}
 	},
 	{
-		"name": "Heiss & Leppla - Rechtsanwälte",
+		"name": "Tierarztpraxis Dr. Hoffmann",
+		"date": "Seit 2011",
+		"description": "Helle, freundliche, im Sommer kühle und modern eingerichtete Praxisräume sorgen für eine angenehme Atmosphäre. Wir sorgen dafür, dass diese Sauber und Ordentlich sind, damit der bestmöglichste Ersteindruck entsteht.",
+		"image": {
+			"src": "hoffmann.jpg",
+			"name": "Tierarztpraxis Dr. Hoffmann",
+			"href": "https://www.tierarzt-dr-hoffmann.de"
+		}
+	},
+	{
+		"name": "Allianz Generalvertretung Sven Erdelbrock",
 		"date": "Seit 2018",
-		"description": "Die Kanzlei HEISS & LEPPLA Rechtsanwälte in München bietet  qualifizierte Rechtsberatung auf hohem Niveau. Wir sorgen für eine angenehme, saubere Arbeitsatmossphäre. Jeden Tag.",
+		"description": "Bei der Allianz Vertretung Sven Erdelbrock in Haar nutzen Sie die langjährige Erfahrung eines der erfolgreichsten Versicherungsunternehmen der Welt. Wir setzen unsere Expertise ein, um optimale Arbeitsräumlichkeiten zu schaffen und zu erhalten.",
+		"image": {
+			"src": "allianz.jpg",
+			"name": "Allianz Generalvertretung Sven Erdelbrock",
+			"href": "https://vertretung.allianz.de/sven.erdelbrock/"
+		}
+	},
+	{
+		"name": "Heiss & Leppla - Rechtsanwälte",
+		"date": "Seit 2021",
+		"description": "Die Kanzlei HEISS & LEPPLA Rechtsanwälte in München bietet qualifizierte Rechtsberatung auf hohem Niveau. Wir sorgen für eine angenehme, saubere Arbeitsatmosphäre. Jeden Tag.",
 		"image": {
 			"src": "leppla.jpg",
 			"name": "Heiss & Leppla - Rechtsanwälte",
 			"href": "https://www.heiss-leppla.de"
+		}
+	},
+	{
+		"name": "Klammert & Partner",
+		"date": "Seit 2021",
+		"description": "Die Kanzlei Klammert & Partner ist Spezialist für Vermögensrecht, Beratung rund um Privat- und Firmenvermögen, Spezialisten für VW Abgasskandal & mehr. Auch hier sorgen wir saubere Räume & klare Fenster.",
+		"image": {
+			"src": "klammert.jpg",
+			"name": "pixabay",
+			"href": "https://pixabay.com/de/photos/kanzlei-büro-office-tisch-arbeit-4924547/"
 		}
 	}
 ]
