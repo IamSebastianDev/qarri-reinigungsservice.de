@@ -33,7 +33,7 @@
 			Diese Webseite benutzt Javascript und den lokalen Speicher deines
 			Browsers für bestimmte funktionen. Du kannst mehr darüber in unserer <a
 				class="text-accent underline"
-				href="./impressum">Datenschutzerklärung</a
+				href="/impressum">Datenschutzerklärung</a
 			> erfahren.
 		</p>
 		<Button on:click={handleOnClick}>Ok!</Button>
