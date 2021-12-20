@@ -3,7 +3,7 @@
 import preprocess from 'svelte-preprocess';
 import tailwind from 'tailwindcss';
 import autoprefixer from 'autoprefixer';
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-vercel';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
