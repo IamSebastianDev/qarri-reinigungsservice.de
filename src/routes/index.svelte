@@ -25,4 +25,4 @@
 
 <Hero />
 <Services {services} />
-<Quote />
+<Quote {services} />

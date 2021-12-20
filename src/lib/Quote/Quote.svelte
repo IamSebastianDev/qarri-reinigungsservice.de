@@ -1,11 +1,4 @@
 <script>
-	let services = [];
-	import { onMount } from 'svelte';
-	onMount(async () => {
-		const res = await fetch('/api/services');
-		services = await res.json();
-	});
-
 	import Section from '../UI/Section/Section.svelte';
 	import SectionHeading from '../UI/Section/SectionHeading.svelte';
 	import QuoteForm from './QuoteForm.svelte';
@@ -16,6 +9,8 @@
 	let form = { cleaning: {} };
 	let errors = {};
 	let response;
+
+	export let services;
 
 	const handleSubmit = async (ev) => {
 		// validate the form and receive the errors object
